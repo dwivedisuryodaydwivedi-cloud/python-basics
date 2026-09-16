@@ -37,9 +37,9 @@ My goal is to build a strong foundation in Python programming, improve problem-s
 
 ## 📈 Learning Progress
 
-* [x] Python Basics
-* [x] Operators
-* [x] If-Else Statements
+* [✓] Python Basics
+* [✓] Operators
+* [✓] If-Else Statements
 * [x] Loops
 * [x] Nested Loops
 * [ ] Functions
